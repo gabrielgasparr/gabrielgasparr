@@ -1,4 +1,4 @@
-name: gabrielgasparr
+name: Gerar Dados
 
 on:
   schedule: # execute every 12 hours
