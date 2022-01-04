@@ -4,7 +4,6 @@
 - 🔭 Atualmente estou trabalhando como Full Stack
 - 🌱 Estou aprendendo em JavaScript
 - 📫 Contate-me no email. gabriellgasparrr@gmail.com
-- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/gabrielgasparr">
