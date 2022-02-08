@@ -1,4 +1,4 @@
-### Olá eu sou o Gabriel Gaspar seja BEM VINDO 👋
+### Olá eu sou o Gabriel Gaspar, seja BEM VINDO 👋
 
 
 - 🔭 Atualmente estou trabalhando como Full Stack
