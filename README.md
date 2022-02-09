@@ -1,8 +1,8 @@
 ### Olá eu sou o Gabriel Gaspar, seja BEM VINDO 👋
 
 
-- 🔭 Atualmente estou trabalhando como Full Stack
-- 🌱 Desenvolvendo em JavaScript
+- 🔭 Atualmente estou trabalhando como Full Stack.
+- 🌱 Desenvolvendo em JavaScript.
 - 📫 Contate-me pelo email. gabriellgasparrr@gmail.com ou Pelos ícones acima dos Commits.
 
 <div align="center">
