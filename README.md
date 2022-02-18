@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou trabalhando como Full Stack.
-- 🌱 Desenvolvendo em JavaScript.
+- 🌱 Desenvolvendo em JavaScript, React.
 - 📫 Contate-me pelo email. gabriellgasparrr@gmail.com ou Pelos ícones acima dos Commits.
 
 <div align="center">
