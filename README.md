@@ -1,4 +1,4 @@
-### Olá eu sou o Gabriel Gaspar, seja BEM VINDO AO MEU MUNDO 👋
+### Olá me chamo Gabriel Gaspar, seja BEM VINDO AO MEU MUNDO 👋
 
 
 - 🔭 Atualmente estou trabalhando como Full Stack.
