@@ -4,7 +4,7 @@
 - 🔭 Atualmente estou trabalhando como Full Stack.
 - 👋 Procurando novos desafios.
 - 🌱 Desenvolvendo em JavaScript,React.
-- 📫 Contate-me pelo email. gabriellgasparrr@gmail.com ou Pelos ícones acima dos Commits.
+- 📫 Contate-me pelo email gabriellgasparrr@gmail.com ou Pelos ícones acima dos Commits.
 
 <div align="center">
   <a href="https://github.com/gabrielgasparr">
