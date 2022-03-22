@@ -1,7 +1,7 @@
 ### Olá me chamo Gabriel Gaspar, seja BEM VINDO AO MEU MUNDO 👋
 
 
-- 🔭 Atualmente estou trabalhando como Full Stack.
+- 🔭 Atualmente estou trabalhando como Back End.
 - 👋 Procurando novos desafios.
 - 🌱 Desenvolvendo em JavaScript,React.
 - 📫 Contate-me pelo email gabriellgasparrr@gmail.com ou Pelos ícones acima dos Commits.
