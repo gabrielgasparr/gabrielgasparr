@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando como Back End.
 - 👋 Procurando novos desafios.
-- 🌱 Desenvolvendo em JavaScript,React.
+- 🌱 Desenvolvendo em JavaScript e React.
 - 📫 Contate-me pelo email gabriellgasparrr@gmail.com ou pelos ícones acima dos Commits.
 
 <div align="center">
