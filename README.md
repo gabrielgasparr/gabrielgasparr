@@ -1,7 +1,7 @@
 ### Olá me chamo Gabriel Gaspar, seja BEM VINDO AO MEU MUNDO 👋
 
 
-- 🔭 Atualmente estou trabalhando como Técnico de Infraestrutura e como Desenvolvedor JavaScript.
+- 🔭 Atualmente estou trabalhando como Quality Assurance (QA).
 - 👋 Procurando novos desafios.
 - 🌱 Desenvolvendo em JavaScript e React.
 - 📫 Contate-me pelo email dev.gabrielgaspar@gmail.com ou pelos ícones acima dos Commits.
