@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando como Quality Assurance (QA).
 - 👋 Procurando novos desafios.
-- 🌱 Desenvolvendo em JavaScript e React.
+- 🌱 Desenvolvendo em Java e Python.
 - 📫 Contate-me pelo email dev.gabrielgaspar@gmail.com ou pelos ícones acima dos Commits.
 
 <div align="center">
